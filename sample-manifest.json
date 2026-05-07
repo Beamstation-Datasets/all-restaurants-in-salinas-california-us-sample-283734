@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1445f819-c412-4684-bd73-e28251e39be3",
+  "export_job_id": "5888a711-b192-4445-9cce-db52fc0abe95",
   "id_short": 283734,
-  "published_at": "2026-04-28T19:15:02Z",
+  "published_at": "2026-05-07T07:12:57Z",
   "repo_name": "all-restaurants-in-salinas-california-us-sample-283734",
   "sample_asset_name": "beamstation_283734_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/283734/beamstation_283734_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 30,
-  "sample_sha256": "b1a41f7d036d3a1116a08a4ac835f2b373b45daee6264f1674b5714483754da3",
-  "sample_size_bytes": 118251,
-  "total_records": 304
+  "sample_records": 31,
+  "sample_sha256": "2ccc38c3c2ea15d61e5acba8adbebb16e87d0bd01db8957aaa03d215d0cd46e2",
+  "sample_size_bytes": 118559,
+  "total_records": 311
 }
